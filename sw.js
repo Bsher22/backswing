@@ -1,6 +1,6 @@
 /* BACKSWING service worker — offline-first.
    Bump CACHE when you change app files so phones pick up the new version. */
-const CACHE = "backswing-v1.0.0";
+const CACHE = "backswing-v3.0.0";
 const ASSETS = [
   "./",
   "./index.html",
